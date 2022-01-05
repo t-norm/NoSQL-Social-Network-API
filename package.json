@@ -1,0 +1,27 @@
+{
+  "name": "module-18-nosql-social-network-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "nodemon": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/t-norm/NoSQL-Social-Network-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/t-norm/NoSQL-Social-Network-API/issues"
+  },
+  "homepage": "https://github.com/t-norm/NoSQL-Social-Network-API#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "moment": "^2.29.1",
+    "mongoose": "^6.1.5",
+    "nodemon": "^2.0.15"
+  }
+}
